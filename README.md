@@ -1,4 +1,7 @@
 # Books_hide_and_seek
+Sorry this is not complete...  
+I have recently started development and I hope you can see the progress of development.
+を作成し、その日のうちに終了します。
 ## What this ?
 This is my comics and tech books management application.
 
