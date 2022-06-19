@@ -4,7 +4,7 @@ This is my comics and tech books management application.
 
 ## technology
 
-|!---!|!---!|!---!|
-| | langage | library and Framework|
-|client|TypeScript| Next.js(React.js)|
-|sever|Go? TypeScript|Node.js|
+| \ |  langage  |  library and Framework  |
+|:-:| :-----: | :-----------------------: |
+| client | TypeScript | Next.js(React.js) |
+|    sever     |     Go     |     Gin     |
